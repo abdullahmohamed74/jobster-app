@@ -1,5 +1,7 @@
 # Jobster
 
+-using Redux Toolkit
+
 ## App description
 
 -you can register for the first time with (name,email,password).
